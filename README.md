@@ -44,4 +44,4 @@ A estrutura e estilização foi utilizada em todas as páginas, matendo o padrã
         - Mensagem (textarea)
         - Botões de envias e limpar formulário
 
-Durante o desafio foi possível observar a quantidade de recursos existente em HTML e CSS, possibilitando um personalização incrível dos sites.
+Durante o desafio foi possível observar a quantidade de recursos existente em HTML e CSS, possibilitando uma personalização e costumização incrível dos sites.
